@@ -1,4 +1,8 @@
 0x07. Python - Test-driven development
+<<<<<<< HEAD
+=======
+
+>>>>>>> 63459604d9b727ef174c1fcbf6b9d7bba6931559
 0. Integers addition
 mandatory
 Write a function that adds 2 integers.
@@ -56,8 +60,12 @@ You have to use the unittest module
 Your test file should be python files (extension: .py)
 Your test file should be executed by using this command: python3 -m unittest tests.6-max_integer_test
 All tests you make must be passable by the function below
+<<<<<<< HEAD
 We strongly encourage you to work together on test cases, so that you don’t miss any edge case
 6. Matrix multiplication
+=======
+We strongly encourage you to work together on test cases, so that you don’t miss any edge case6. Matrix multiplication
+>>>>>>> 63459604d9b727ef174c1fcbf6b9d7bba6931559
 #advanced
 Write a function that multiplies 2 matrices:
 
